@@ -7,6 +7,8 @@
 #include <string>
 #include <vector>
 
+#include "format.h"
+
 using std::stof;
 using std::string;
 using std::to_string;
